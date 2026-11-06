@@ -1,7 +1,10 @@
-// Add your REAL public Moxfield deck links below. Do not put account passwords here.
-// Example format (remove the // and replace with your own real information):
-// window.HG_FEATURED_DECKS = [
-//   { title: "My Commander Deck", url: "https://www.moxfield.com/decks/YOUR_REAL_DECK_ID",
-//     image: "https://cards.scryfall.io/normal/front/...", description: "Deck tech and list" }
-// ];
-window.HG_FEATURED_DECKS = [];
+// Verified public Moxfield deck links supplied by the site owner.
+// These appear even if Moxfield's automated profile feed is unavailable.
+// Add more links here as needed; the six-hourly updater will still try discovery.
+window.HG_FEATURED_DECKS = [
+  {
+    title: "Featured Commander Deck",
+    url: "https://moxfield.com/decks/kSDOBtdiVE2zcO3c_AaG3A",
+    description: "View the full decklist on Moxfield"
+  }
+];
