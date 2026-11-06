@@ -1,0 +1,204 @@
+{
+  "cards": [
+    {
+      "name": "1",
+      "url": "historical-cards/1.png"
+    },
+    {
+      "name": "10",
+      "url": "historical-cards/10.jpg"
+    },
+    {
+      "name": "11",
+      "url": "historical-cards/11.jpg"
+    },
+    {
+      "name": "2",
+      "url": "historical-cards/2.png"
+    },
+    {
+      "name": "3",
+      "url": "historical-cards/3.png"
+    },
+    {
+      "name": "4",
+      "url": "historical-cards/4.png"
+    },
+    {
+      "name": "5",
+      "url": "historical-cards/5.jpg"
+    },
+    {
+      "name": "6",
+      "url": "historical-cards/6.jpg"
+    },
+    {
+      "name": "7",
+      "url": "historical-cards/7.jpg"
+    },
+    {
+      "name": "8",
+      "url": "historical-cards/8.jpg"
+    },
+    {
+      "name": "9",
+      "url": "historical-cards/9.jpg"
+    },
+    {
+      "name": "Albert",
+      "url": "historical-cards/Albert.png"
+    },
+    {
+      "name": "Archimedes",
+      "url": "historical-cards/Archimedes.png"
+    },
+    {
+      "name": "Arminius",
+      "url": "historical-cards/Arminius.png"
+    },
+    {
+      "name": "Baldwin IV",
+      "url": "historical-cards/Baldwin IV.png"
+    },
+    {
+      "name": "Brutus",
+      "url": "historical-cards/Brutus.png"
+    },
+    {
+      "name": "Choe",
+      "url": "historical-cards/Choe.png"
+    },
+    {
+      "name": "Cleopatra",
+      "url": "historical-cards/Cleopatra.png"
+    },
+    {
+      "name": "Constantine",
+      "url": "historical-cards/Constantine.png"
+    },
+    {
+      "name": "Edward",
+      "url": "historical-cards/Edward.png"
+    },
+    {
+      "name": "Frederick",
+      "url": "historical-cards/Frederick.png"
+    },
+    {
+      "name": "Fu Hao",
+      "url": "historical-cards/Fu Hao.png"
+    },
+    {
+      "name": "harold",
+      "url": "historical-cards/harold.png"
+    },
+    {
+      "name": "Hattori",
+      "url": "historical-cards/Hattori.png"
+    },
+    {
+      "name": "Heo Jun",
+      "url": "historical-cards/Heo Jun.png"
+    },
+    {
+      "name": "Honda",
+      "url": "historical-cards/Honda.png"
+    },
+    {
+      "name": "Jang",
+      "url": "historical-cards/Jang.png"
+    },
+    {
+      "name": "Jeong",
+      "url": "historical-cards/Jeong.png"
+    },
+    {
+      "name": "Jindeok",
+      "url": "historical-cards/Jindeok.png"
+    },
+    {
+      "name": "jumong",
+      "url": "historical-cards/jumong.png"
+    },
+    {
+      "name": "Kim Jeong",
+      "url": "historical-cards/Kim Jeong.png"
+    },
+    {
+      "name": "Lyudmilla",
+      "url": "historical-cards/Lyudmilla.png"
+    },
+    {
+      "name": "Masamune",
+      "url": "historical-cards/Masamune.png"
+    },
+    {
+      "name": "Minamoto",
+      "url": "historical-cards/Minamoto.png"
+    },
+    {
+      "name": "Mithridates",
+      "url": "historical-cards/Mithridates.png"
+    },
+    {
+      "name": "Miyamoto",
+      "url": "historical-cards/Miyamoto.png"
+    },
+    {
+      "name": "Nakano",
+      "url": "historical-cards/Nakano.png"
+    },
+    {
+      "name": "Napoleon",
+      "url": "historical-cards/Napoleon.png"
+    },
+    {
+      "name": "Nefertiti",
+      "url": "historical-cards/Nefertiti.png"
+    },
+    {
+      "name": "Nero",
+      "url": "historical-cards/Nero.png"
+    },
+    {
+      "name": "Neza",
+      "url": "historical-cards/Neza.png"
+    },
+    {
+      "name": "Nzinga",
+      "url": "historical-cards/Nzinga.png"
+    },
+    {
+      "name": "Ogedei",
+      "url": "historical-cards/Ogedei.png"
+    },
+    {
+      "name": "oichi",
+      "url": "historical-cards/oichi.png"
+    },
+    {
+      "name": "Pemulwuy",
+      "url": "historical-cards/Pemulwuy.png"
+    },
+    {
+      "name": "Philip",
+      "url": "historical-cards/Philip.png"
+    },
+    {
+      "name": "Pyrrhus",
+      "url": "historical-cards/Pyrrhus.png"
+    },
+    {
+      "name": "Razia",
+      "url": "historical-cards/Razia.png"
+    },
+    {
+      "name": "Richard",
+      "url": "historical-cards/Richard.png"
+    },
+    {
+      "name": "Sanada",
+      "url": "historical-cards/Sanada.png"
+    }
+  ]
+}
