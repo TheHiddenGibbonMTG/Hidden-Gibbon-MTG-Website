@@ -1,6 +1,5 @@
 """Synchronize publicly shared historical Commander card images without Google credentials."""
 import json
-import re
 from pathlib import Path
 import gdown
 
@@ -11,7 +10,7 @@ EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 DEST.mkdir(exist_ok=True)
 
 # gdown can enumerate public folders without an OAuth token, subject to Google's limits.
-files = gdown.download_folder(url=FOLDER_URL, output=str(DEST), quiet=True, remaining_ok=True)
+files = gdown.download_folder(url=FOLDER_URL, output=str(DEST), quiet=True, remaining_ok=False)
 if files is None:
     raise RuntimeError("Public Google Drive folder could not be read; keeping existing gallery.")
 
