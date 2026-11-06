@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "xlgiA0Xw9M0",
+      "title": "Ulalek, Fused Atrocity | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-06T18:00:33+00:00",
+      "url": "https://www.youtube.com/watch?v=xlgiA0Xw9M0",
+      "image": "https://i.ytimg.com/vi/xlgiA0Xw9M0/hqdefault.jpg"
+    },
+    {
+      "id": "ara0IBEd6BE",
+      "title": "Ulalek, Fused Atrocity | Combo, Artifacts | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-06T18:00:29+00:00",
+      "url": "https://www.youtube.com/watch?v=ara0IBEd6BE",
+      "image": "https://i.ytimg.com/vi/ara0IBEd6BE/hqdefault.jpg"
+    },
+    {
       "id": "5Bhm88jbCdg",
       "title": "Gibbon's Card of the Day | Shaman of the Pack | Episode 318 | #MTG",
       "published": "2026-11-06T06:23:36+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-02T23:00:00+00:00",
       "url": "https://www.youtube.com/watch?v=IAhe3zvFvoE",
       "image": "https://i.ytimg.com/vi/IAhe3zvFvoE/hqdefault.jpg"
-    },
-    {
-      "id": "zg4O642Uh00",
-      "title": "I'm Alive! So, What Happened?",
-      "published": "2026-11-02T19:15:18+00:00",
-      "url": "https://www.youtube.com/watch?v=zg4O642Uh00",
-      "image": "https://i.ytimg.com/vi/zg4O642Uh00/hqdefault.jpg"
-    },
-    {
-      "id": "aVAH5qTiCxo",
-      "title": "Gibbon's Card of the Day | Metalworker | Episode 314 | #MTG",
-      "published": "2026-10-26T05:00:36+00:00",
-      "url": "https://www.youtube.com/watch?v=aVAH5qTiCxo",
-      "image": "https://i.ytimg.com/vi/aVAH5qTiCxo/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-06T13:30:44.198768+00:00"
+  "updated_at": "2026-11-06T19:19:16.896249+00:00"
 }
