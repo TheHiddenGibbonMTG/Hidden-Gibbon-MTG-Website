@@ -1,1 +1,111 @@
-{"videos": [], "decks": [], "updated_at": null}
+{
+  "videos": [
+    {
+      "id": "5Bhm88jbCdg",
+      "title": "Gibbon's Card of the Day | Shaman of the Pack | Episode 318 | #MTG",
+      "published": "2026-11-06T06:23:36+00:00",
+      "url": "https://www.youtube.com/watch?v=5Bhm88jbCdg",
+      "image": "https://i.ytimg.com/vi/5Bhm88jbCdg/hqdefault.jpg"
+    },
+    {
+      "id": "fILOPuGViww",
+      "title": "Should Bracket 3 Tournaments Even be a Thing?",
+      "published": "2026-11-06T01:00:37+00:00",
+      "url": "https://www.youtube.com/watch?v=fILOPuGViww",
+      "image": "https://i.ytimg.com/vi/fILOPuGViww/hqdefault.jpg"
+    },
+    {
+      "id": "M4eJwyqpZWM",
+      "title": "Deanna Troi, Psychic Counsel | Gibbon's Commander of the Day | #MTG #EDH #Commander",
+      "published": "2026-11-05T23:30:21+00:00",
+      "url": "https://www.youtube.com/watch?v=M4eJwyqpZWM",
+      "image": "https://i.ytimg.com/vi/M4eJwyqpZWM/hqdefault.jpg"
+    },
+    {
+      "id": "KnHNetbLWXo",
+      "title": "Deanna Troi, Psychic Counsel | Life Gain, Counters | MTG Commander Deck Tech | Episode 272",
+      "published": "2026-11-05T23:30:01+00:00",
+      "url": "https://www.youtube.com/watch?v=KnHNetbLWXo",
+      "image": "https://i.ytimg.com/vi/KnHNetbLWXo/hqdefault.jpg"
+    },
+    {
+      "id": "n788Q_zUaVY",
+      "title": "Gibbon's Card of the Day | Emancipation Angel | Episode 317 | #MTG",
+      "published": "2026-11-05T06:00:04+00:00",
+      "url": "https://www.youtube.com/watch?v=n788Q_zUaVY",
+      "image": "https://i.ytimg.com/vi/n788Q_zUaVY/hqdefault.jpg"
+    },
+    {
+      "id": "4Jc-_ife8Ps",
+      "title": "Georgiou, Terran Emperor | Gibbon's Commander of the Day | #MTG #EDH #Commander",
+      "published": "2026-11-04T19:00:36+00:00",
+      "url": "https://www.youtube.com/watch?v=4Jc-_ife8Ps",
+      "image": "https://i.ytimg.com/vi/4Jc-_ife8Ps/hqdefault.jpg"
+    },
+    {
+      "id": "dh7QKqDWNX0",
+      "title": "Georgiou, Terran Emperor | Combo, Self Mill | MTG Commander Deck Tech | Episode 271",
+      "published": "2026-11-04T19:00:17+00:00",
+      "url": "https://www.youtube.com/watch?v=dh7QKqDWNX0",
+      "image": "https://i.ytimg.com/vi/dh7QKqDWNX0/hqdefault.jpg"
+    },
+    {
+      "id": "BStq17JXjE4",
+      "title": "Gibbon's Card of the Day | U.S.S. Discovery, at Black Alert | Episode 316 | #MTG",
+      "published": "2026-11-04T06:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=BStq17JXjE4",
+      "image": "https://i.ytimg.com/vi/BStq17JXjE4/hqdefault.jpg"
+    },
+    {
+      "id": "RMTvXWA4I9k",
+      "title": "Data, New Life | Draw, Counters | MTG Commander Deck Tech | Episode 270",
+      "published": "2026-11-03T20:00:15+00:00",
+      "url": "https://www.youtube.com/watch?v=RMTvXWA4I9k",
+      "image": "https://i.ytimg.com/vi/RMTvXWA4I9k/hqdefault.jpg"
+    },
+    {
+      "id": "DYaae8NDRhc",
+      "title": "Data, New Life | Gibbon's Commander of the Day | #MTG #EDH #Commander",
+      "published": "2026-11-03T20:00:07+00:00",
+      "url": "https://www.youtube.com/watch?v=DYaae8NDRhc",
+      "image": "https://i.ytimg.com/vi/DYaae8NDRhc/hqdefault.jpg"
+    },
+    {
+      "id": "HPAH7NIJfM8",
+      "title": "Gibbon's Card of the Day | Troubling Tribbles | Episode 315 | #MTG",
+      "published": "2026-11-03T06:00:03+00:00",
+      "url": "https://www.youtube.com/watch?v=HPAH7NIJfM8",
+      "image": "https://i.ytimg.com/vi/HPAH7NIJfM8/hqdefault.jpg"
+    },
+    {
+      "id": "IrcBm9XCX6M",
+      "title": "Captain Jean-Luc Picard | $90 Budget Build | MTG for the Working Class | #MTG #EDH",
+      "published": "2026-11-02T23:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=IrcBm9XCX6M",
+      "image": "https://i.ytimg.com/vi/IrcBm9XCX6M/hqdefault.jpg"
+    },
+    {
+      "id": "IAhe3zvFvoE",
+      "title": "Magic for the Working Class | Captain Jean-Luc Picard | $90 | #MTG #EDH #BudgetCommander",
+      "published": "2026-11-02T23:00:00+00:00",
+      "url": "https://www.youtube.com/watch?v=IAhe3zvFvoE",
+      "image": "https://i.ytimg.com/vi/IAhe3zvFvoE/hqdefault.jpg"
+    },
+    {
+      "id": "zg4O642Uh00",
+      "title": "I'm Alive! So, What Happened?",
+      "published": "2026-11-02T19:15:18+00:00",
+      "url": "https://www.youtube.com/watch?v=zg4O642Uh00",
+      "image": "https://i.ytimg.com/vi/zg4O642Uh00/hqdefault.jpg"
+    },
+    {
+      "id": "aVAH5qTiCxo",
+      "title": "Gibbon's Card of the Day | Metalworker | Episode 314 | #MTG",
+      "published": "2026-10-26T05:00:36+00:00",
+      "url": "https://www.youtube.com/watch?v=aVAH5qTiCxo",
+      "image": "https://i.ytimg.com/vi/aVAH5qTiCxo/hqdefault.jpg"
+    }
+  ],
+  "decks": [],
+  "updated_at": "2026-11-06T08:10:12.967398+00:00"
+}
