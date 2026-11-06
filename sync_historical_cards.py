@@ -26,7 +26,7 @@ response.raise_for_status()
 soup = BeautifulSoup(response.text, "html.parser")
 found = {}
 for link in soup.find_all("a", href=True):
-    match = re.search(r"drive\\.google\\.com/file/d/([\\w-]{25,})/view", link["href"])
+    match = re.search(r"drive\.google\.com/file/d/([\w-]{25,})/view", link["href"])
     if not match:
         continue
     name = link.get_text(" ", strip=True).strip()
