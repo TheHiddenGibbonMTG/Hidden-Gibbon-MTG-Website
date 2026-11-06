@@ -1,5 +1,10 @@
 name: Refresh Historical Commander Gallery
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'sync_historical_cards.py'
+      - '.github/workflows/refresh-historical-cards.yml'
   workflow_dispatch:
   schedule:
     - cron: '20 */6 * * *'
