@@ -15,9 +15,9 @@
 @media(max-width:580px){.showcase-column .shelf-track{grid-auto-columns:86%}#apps{padding-top:24px}}
 
 /* Desktop side rails: video and deck feeds scroll vertically beside the main page. */
-@media(min-width:1450px){
-  body{--rail-width:clamp(260px,calc((100vw - 850px)/2 - 42px),370px)}
-  .hero,.section,.nav{max-width:820px}
+@media(min-width:1050px){
+  body{--rail-width:clamp(190px,21vw,350px);--center-width:min(820px,calc(100vw - 2 * var(--rail-width) - 54px))}
+  .hero,.section,.nav{max-width:var(--center-width)}
   .hero{margin-top:20px}
   .intro{margin-top:-24px;padding:22px 25px}
   .section{margin-top:42px}
@@ -25,8 +25,8 @@
   .showcase{margin:0;padding:0;max-width:none}
   .showcase-columns{display:contents}
   .showcase-column{position:fixed;top:86px;bottom:20px;width:var(--rail-width);overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#88bc63 transparent;padding:14px 10px 22px;background:linear-gradient(160deg,#10341eea,#0a2419ee);border:1px solid #87b36a66;border-radius:18px;box-shadow:0 12px 30px #0005;z-index:4}
-  .showcase-column:first-child{left:18px}
-  .showcase-column:last-child{right:18px}
+  .showcase-column:first-child{left:12px}
+  .showcase-column:last-child{right:12px}
   .showcase-column .showcase-head{min-height:0;align-items:start;gap:8px;margin-bottom:12px}
   .showcase-column .showcase-head h2{font-size:21px;line-height:1.2}
   .showcase-column .showcase-head p{font-size:13px;line-height:1.45}
@@ -81,9 +81,9 @@ async function loadShowcases(){
  const deckStatus=document.getElementById('deck-status');if(deckStatus)deckStatus.textContent=decks.length?'Showing '+decks.length+' public decklists':'Deck cards are awaiting public Moxfield data; the full profile remains available.';
 }
 loadShowcases();
-for(const b of document.querySelectorAll('[data-move]'))b.addEventListener('click',()=>{const [id,dir]=b.dataset.move.split(':');const el=document.getElementById(id+'-track');window.matchMedia('(min-width:1450px)').matches?el.closest('.showcase-column')?.scrollBy({top:Number(dir)*260,behavior:'smooth'}):el.scrollBy({left:Number(dir)*(el.querySelector('.feature-card')?.getBoundingClientRect().width+16||320),behavior:'smooth'})});
+for(const b of document.querySelectorAll('[data-move]'))b.addEventListener('click',()=>{const [id,dir]=b.dataset.move.split(':');const el=document.getElementById(id+'-track');window.matchMedia('(min-width:1050px)').matches?el.closest('.showcase-column')?.scrollBy({top:Number(dir)*260,behavior:'smooth'}):el.scrollBy({left:Number(dir)*(el.querySelector('.feature-card')?.getBoundingClientRect().width+16||320),behavior:'smooth'})});
 // Rotate when visible; stop while hovering, focused, or if reduced motion is preferred.
-if(!matchMedia('(prefers-reduced-motion: reduce)').matches){let visible=true;const observer=new IntersectionObserver(es=>{visible=es.some(e=>e.isIntersecting)},{threshold:.1});observer.observe(document.getElementById('apps'));setInterval(()=>{if(!visible||document.hidden)return;for(const el of [vtrack,dtrack]){if(el.matches(':hover')||el.contains(document.activeElement)||el.children.length<2)continue;const rail=el.closest('.showcase-column');if(window.matchMedia('(min-width:1450px)').matches){if(rail)rail.scrollTo({top:rail.scrollTop+260>=rail.scrollHeight-rail.clientHeight-8?0:rail.scrollTop+260,behavior:'smooth'})}else{const step=(el.querySelector('.feature-card')?.getBoundingClientRect().width||300)+16;el.scrollTo({left:el.scrollLeft+step>=el.scrollWidth-el.clientWidth-4?0:el.scrollLeft+step,behavior:'smooth'})}}},9000)}
+if(!matchMedia('(prefers-reduced-motion: reduce)').matches){let visible=true;const observer=new IntersectionObserver(es=>{visible=es.some(e=>e.isIntersecting)},{threshold:.1});observer.observe(document.getElementById('apps'));setInterval(()=>{if(!visible||document.hidden)return;for(const el of [vtrack,dtrack]){if(el.matches(':hover')||el.contains(document.activeElement)||el.children.length<2)continue;const rail=el.closest('.showcase-column');if(window.matchMedia('(min-width:1050px)').matches){if(rail)rail.scrollTo({top:rail.scrollTop+260>=rail.scrollHeight-rail.clientHeight-8?0:rail.scrollTop+260,behavior:'smooth'})}else{const step=(el.querySelector('.feature-card')?.getBoundingClientRect().width||300)+16;el.scrollTo({left:el.scrollLeft+step>=el.scrollWidth-el.clientWidth-4?0:el.scrollLeft+step,behavior:'smooth'})}}},9000)}
 })();
 </script>
 </body></html>
