@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "8vpAKeioXss",
+      "title": "Hei Bai, Forest Guardian | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-07T18:00:37+00:00",
+      "url": "https://www.youtube.com/watch?v=8vpAKeioXss",
+      "image": "https://i.ytimg.com/vi/8vpAKeioXss/hqdefault.jpg"
+    },
+    {
+      "id": "4jF1dPMklLM",
+      "title": "Hei Bai, Forest Guardian | Shrines, Blink | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-07T18:00:02+00:00",
+      "url": "https://www.youtube.com/watch?v=4jF1dPMklLM",
+      "image": "https://i.ytimg.com/vi/4jF1dPMklLM/hqdefault.jpg"
+    },
+    {
       "id": "nVZCnIRtrDk",
       "title": "Gibbon's Card of the Day | Seven of Nine, Unassimilated | Episode 319 | #MTG",
       "published": "2026-11-07T06:00:05+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-04T19:00:17+00:00",
       "url": "https://www.youtube.com/watch?v=dh7QKqDWNX0",
       "image": "https://i.ytimg.com/vi/dh7QKqDWNX0/hqdefault.jpg"
-    },
-    {
-      "id": "BStq17JXjE4",
-      "title": "Gibbon's Card of the Day | U.S.S. Discovery, at Black Alert | Episode 316 | #MTG",
-      "published": "2026-11-04T06:00:05+00:00",
-      "url": "https://www.youtube.com/watch?v=BStq17JXjE4",
-      "image": "https://i.ytimg.com/vi/BStq17JXjE4/hqdefault.jpg"
-    },
-    {
-      "id": "RMTvXWA4I9k",
-      "title": "Data, New Life | Draw, Counters | MTG Commander Deck Tech | Episode 270",
-      "published": "2026-11-03T20:00:15+00:00",
-      "url": "https://www.youtube.com/watch?v=RMTvXWA4I9k",
-      "image": "https://i.ytimg.com/vi/RMTvXWA4I9k/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-07T13:17:09.025662+00:00"
+  "updated_at": "2026-11-07T19:10:13.439034+00:00"
 }
