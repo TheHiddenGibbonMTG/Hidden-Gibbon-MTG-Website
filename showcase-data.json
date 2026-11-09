@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "mybsoi59vfM",
+      "title": "Baron Von Count | Pain, Rule 0 | MTG Commander Deck Tech | Viewer Request",
+      "published": "",
+      "url": "https://www.youtube.com/watch?v=mybsoi59vfM",
+      "image": "https://i.ytimg.com/vi/mybsoi59vfM/hqdefault.jpg"
+    },
+    {
       "id": "ir1bhCIkQSg",
       "title": "Appa, Steadfast Guardian | Blink, Combo, Eldrazi | MTG Commander Deck Tech | Viewer Request",
       "published": "",
@@ -97,15 +104,8 @@
       "published": "",
       "url": "https://www.youtube.com/watch?v=y4ZtuqbATT8",
       "image": "https://i.ytimg.com/vi/y4ZtuqbATT8/hqdefault.jpg"
-    },
-    {
-      "id": "KYnNHbEHv1k",
-      "title": "Konda, Lord of Eiganjo | Samurai, Aggro | MTG Commander Deck Tech | Vacation Edition",
-      "published": "",
-      "url": "https://www.youtube.com/watch?v=KYnNHbEHv1k",
-      "image": "https://i.ytimg.com/vi/KYnNHbEHv1k/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-09T01:36:26.564387+00:00"
+  "updated_at": "2026-11-09T07:50:27.786767+00:00"
 }
