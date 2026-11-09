@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "mybsoi59vfM",
+      "title": "Baron Von Count | Pain, Rule 0 | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-09T18:00:36+00:00",
+      "url": "https://www.youtube.com/watch?v=mybsoi59vfM",
+      "image": "https://i.ytimg.com/vi/mybsoi59vfM/hqdefault.jpg"
+    },
+    {
+      "id": "NJ05xsY45Nk",
+      "title": "Baron Von Count | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-09T18:00:03+00:00",
+      "url": "https://www.youtube.com/watch?v=NJ05xsY45Nk",
+      "image": "https://i.ytimg.com/vi/NJ05xsY45Nk/hqdefault.jpg"
+    },
+    {
       "id": "xHuR54uzVNM",
       "title": "Gibbon's Card of the Day | Pariah's Shield | Episode 321 | #MTG",
       "published": "2026-11-09T06:00:01+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-06T06:23:36+00:00",
       "url": "https://www.youtube.com/watch?v=5Bhm88jbCdg",
       "image": "https://i.ytimg.com/vi/5Bhm88jbCdg/hqdefault.jpg"
-    },
-    {
-      "id": "fILOPuGViww",
-      "title": "Should Bracket 3 Tournaments Even be a Thing?",
-      "published": "2026-11-06T01:00:37+00:00",
-      "url": "https://www.youtube.com/watch?v=fILOPuGViww",
-      "image": "https://i.ytimg.com/vi/fILOPuGViww/hqdefault.jpg"
-    },
-    {
-      "id": "M4eJwyqpZWM",
-      "title": "Deanna Troi, Psychic Counsel | Gibbon's Commander of the Day | #MTG #EDH #Commander",
-      "published": "2026-11-05T23:30:21+00:00",
-      "url": "https://www.youtube.com/watch?v=M4eJwyqpZWM",
-      "image": "https://i.ytimg.com/vi/M4eJwyqpZWM/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-09T13:38:39.304092+00:00"
+  "updated_at": "2026-11-09T19:19:09.002361+00:00"
 }
