@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "T-dJtKiz0k8",
+      "title": "Marchesa, the Black Rose | Lock, Mass Land Destruction | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-11T18:00:27+00:00",
+      "url": "https://www.youtube.com/watch?v=T-dJtKiz0k8",
+      "image": "https://i.ytimg.com/vi/T-dJtKiz0k8/hqdefault.jpg"
+    },
+    {
+      "id": "OA8i7cEH2O0",
+      "title": "Marchesa, the Black Rose | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-11T18:00:25+00:00",
+      "url": "https://www.youtube.com/watch?v=OA8i7cEH2O0",
+      "image": "https://i.ytimg.com/vi/OA8i7cEH2O0/hqdefault.jpg"
+    },
+    {
       "id": "YthXdrQvJj0",
       "title": "Gibbon's Card of the Day | Bosh, Iron Golem | Episode 323 | #MTG",
       "published": "2026-11-11T06:00:16+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-08T18:30:13+00:00",
       "url": "https://www.youtube.com/watch?v=EpnDJkPQj_A",
       "image": "https://i.ytimg.com/vi/EpnDJkPQj_A/hqdefault.jpg"
-    },
-    {
-      "id": "MsEAt70zJyA",
-      "title": "Gibbon's Card of the Day | Ground Seal | Episode 320 | #MTG",
-      "published": "2026-11-08T06:00:21+00:00",
-      "url": "https://www.youtube.com/watch?v=MsEAt70zJyA",
-      "image": "https://i.ytimg.com/vi/MsEAt70zJyA/hqdefault.jpg"
-    },
-    {
-      "id": "8vpAKeioXss",
-      "title": "Hei Bai, Forest Guardian | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
-      "published": "2026-11-07T18:00:37+00:00",
-      "url": "https://www.youtube.com/watch?v=8vpAKeioXss",
-      "image": "https://i.ytimg.com/vi/8vpAKeioXss/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-11T13:36:21.824493+00:00"
+  "updated_at": "2026-11-11T19:25:08.003534+00:00"
 }
