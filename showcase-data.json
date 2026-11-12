@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "RtT3NquhjUE",
+      "title": "Bumi, Unleashed | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-12T19:00:20+00:00",
+      "url": "https://www.youtube.com/watch?v=RtT3NquhjUE",
+      "image": "https://i.ytimg.com/vi/RtT3NquhjUE/hqdefault.jpg"
+    },
+    {
+      "id": "cvtHgfmwSWQ",
+      "title": "Bumi, Unleashed | Landfall, Combats | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-12T19:00:04+00:00",
+      "url": "https://www.youtube.com/watch?v=cvtHgfmwSWQ",
+      "image": "https://i.ytimg.com/vi/cvtHgfmwSWQ/hqdefault.jpg"
+    },
+    {
       "id": "FN06puMVgjc",
       "title": "Gibbon's Card of the Day | Glimmervoid | Episode 324 | #MTG",
       "published": "2026-11-12T06:00:03+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-09T18:00:03+00:00",
       "url": "https://www.youtube.com/watch?v=NJ05xsY45Nk",
       "image": "https://i.ytimg.com/vi/NJ05xsY45Nk/hqdefault.jpg"
-    },
-    {
-      "id": "xHuR54uzVNM",
-      "title": "Gibbon's Card of the Day | Pariah's Shield | Episode 321 | #MTG",
-      "published": "2026-11-09T06:00:01+00:00",
-      "url": "https://www.youtube.com/watch?v=xHuR54uzVNM",
-      "image": "https://i.ytimg.com/vi/xHuR54uzVNM/hqdefault.jpg"
-    },
-    {
-      "id": "ir1bhCIkQSg",
-      "title": "Appa, Steadfast Guardian | Blink, Combo, Eldrazi | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-08T18:30:15+00:00",
-      "url": "https://www.youtube.com/watch?v=ir1bhCIkQSg",
-      "image": "https://i.ytimg.com/vi/ir1bhCIkQSg/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-12T13:39:25.938232+00:00"
+  "updated_at": "2026-11-12T19:20:43.333568+00:00"
 }
