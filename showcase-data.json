@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "1OnKawqUl9E",
+      "title": "Ghalta, the Immovable | Aggro, Walls | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-14T18:00:31+00:00",
+      "url": "https://www.youtube.com/watch?v=1OnKawqUl9E",
+      "image": "https://i.ytimg.com/vi/1OnKawqUl9E/hqdefault.jpg"
+    },
+    {
+      "id": "pIcV4qhmNl4",
+      "title": "Gibbon's Commander of the Day | Ghalta, the Immovable | Viewer Rquest | #MTG #EDH #Commander",
+      "published": "2026-11-14T18:00:25+00:00",
+      "url": "https://www.youtube.com/watch?v=pIcV4qhmNl4",
+      "image": "https://i.ytimg.com/vi/pIcV4qhmNl4/hqdefault.jpg"
+    },
+    {
       "id": "PuRorWCm3sA",
       "title": "Gibbon's Card of the Day | Web of Inertia | Episode 326 | #MTG",
       "published": "2026-11-14T06:00:08+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-10T23:00:07+00:00",
       "url": "https://www.youtube.com/watch?v=Vy5vVy0dt2Y",
       "image": "https://i.ytimg.com/vi/Vy5vVy0dt2Y/hqdefault.jpg"
-    },
-    {
-      "id": "H4OmqzJBh5w",
-      "title": "The Second Doctor | Combo, Draw | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-10T18:00:02+00:00",
-      "url": "https://www.youtube.com/watch?v=H4OmqzJBh5w",
-      "image": "https://i.ytimg.com/vi/H4OmqzJBh5w/hqdefault.jpg"
-    },
-    {
-      "id": "R8rETGhx55k",
-      "title": "The Second Doctor | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
-      "published": "2026-11-10T18:00:02+00:00",
-      "url": "https://www.youtube.com/watch?v=R8rETGhx55k",
-      "image": "https://i.ytimg.com/vi/R8rETGhx55k/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-14T13:16:38.713522+00:00"
+  "updated_at": "2026-11-14T19:09:44.790459+00:00"
 }
