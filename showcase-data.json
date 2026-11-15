@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "f9qAHVjrVn4",
+      "title": "Indominus Rex, Alpha | Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-15T19:00:37+00:00",
+      "url": "https://www.youtube.com/watch?v=f9qAHVjrVn4",
+      "image": "https://i.ytimg.com/vi/f9qAHVjrVn4/hqdefault.jpg"
+    },
+    {
+      "id": "CciOi9FGrM8",
+      "title": "Indominus Rex, Alpha | Reanimator, Self-Discard | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-15T19:00:11+00:00",
+      "url": "https://www.youtube.com/watch?v=CciOi9FGrM8",
+      "image": "https://i.ytimg.com/vi/CciOi9FGrM8/hqdefault.jpg"
+    },
+    {
       "id": "fpLWNt2EWtY",
       "title": "Gibbon's Card of the Day | Sigil of the New Dawn | Episode 327 | #MTG",
       "published": "2026-11-15T06:00:27+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-12T06:00:03+00:00",
       "url": "https://www.youtube.com/watch?v=FN06puMVgjc",
       "image": "https://i.ytimg.com/vi/FN06puMVgjc/hqdefault.jpg"
-    },
-    {
-      "id": "T-dJtKiz0k8",
-      "title": "Marchesa, the Black Rose | Lock, Mass Land Destruction | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-11T18:00:27+00:00",
-      "url": "https://www.youtube.com/watch?v=T-dJtKiz0k8",
-      "image": "https://i.ytimg.com/vi/T-dJtKiz0k8/hqdefault.jpg"
-    },
-    {
-      "id": "OA8i7cEH2O0",
-      "title": "Marchesa, the Black Rose | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
-      "published": "2026-11-11T18:00:25+00:00",
-      "url": "https://www.youtube.com/watch?v=OA8i7cEH2O0",
-      "image": "https://i.ytimg.com/vi/OA8i7cEH2O0/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-15T13:19:26.884786+00:00"
+  "updated_at": "2026-11-15T19:10:36.901455+00:00"
 }
