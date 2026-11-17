@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "DbclsFiFb_Q",
+      "title": "Gibbon's Card of the Day | Graceful Reprieve | Episode 329 | #MTG",
+      "published": "2026-11-17T06:00:07+00:00",
+      "url": "https://www.youtube.com/watch?v=DbclsFiFb_Q",
+      "image": "https://i.ytimg.com/vi/DbclsFiFb_Q/hqdefault.jpg"
+    },
+    {
       "id": "Dz0Pq4MEVO8",
       "title": "Magic for the Working | Class Kona, Rescue Beastie | $77 | #MTG #EDH #BudgetCommander",
       "published": "2026-11-16T23:00:18+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-13T23:00:15+00:00",
       "url": "https://www.youtube.com/watch?v=CglCsV5hAl8",
       "image": "https://i.ytimg.com/vi/CglCsV5hAl8/hqdefault.jpg"
-    },
-    {
-      "id": "5XroS_VC_pw",
-      "title": "Magic for the Working Class | Jurati, Cordial Queen | $92 | #MTG #EDH #BudgetCommander",
-      "published": "2026-11-13T23:00:06+00:00",
-      "url": "https://www.youtube.com/watch?v=5XroS_VC_pw",
-      "image": "https://i.ytimg.com/vi/5XroS_VC_pw/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-17T01:39:32.104679+00:00"
+  "updated_at": "2026-11-17T07:44:04.546455+00:00"
 }
