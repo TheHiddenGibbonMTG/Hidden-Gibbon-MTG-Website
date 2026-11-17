@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "uegOhRiun5A",
+      "title": "Fire Lord Azula | Combo, cEDH | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-17T18:00:19+00:00",
+      "url": "https://www.youtube.com/watch?v=uegOhRiun5A",
+      "image": "https://i.ytimg.com/vi/uegOhRiun5A/hqdefault.jpg"
+    },
+    {
+      "id": "l_oAQhvbhtA",
+      "title": "Fire Lord Azula | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander #cEDH",
+      "published": "2026-11-17T18:00:18+00:00",
+      "url": "https://www.youtube.com/watch?v=l_oAQhvbhtA",
+      "image": "https://i.ytimg.com/vi/l_oAQhvbhtA/hqdefault.jpg"
+    },
+    {
       "id": "DbclsFiFb_Q",
       "title": "Gibbon's Card of the Day | Graceful Reprieve | Episode 329 | #MTG",
       "published": "2026-11-17T06:00:07+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-14T18:00:25+00:00",
       "url": "https://www.youtube.com/watch?v=pIcV4qhmNl4",
       "image": "https://i.ytimg.com/vi/pIcV4qhmNl4/hqdefault.jpg"
-    },
-    {
-      "id": "PuRorWCm3sA",
-      "title": "Gibbon's Card of the Day | Web of Inertia | Episode 326 | #MTG",
-      "published": "2026-11-14T06:00:08+00:00",
-      "url": "https://www.youtube.com/watch?v=PuRorWCm3sA",
-      "image": "https://i.ytimg.com/vi/PuRorWCm3sA/hqdefault.jpg"
-    },
-    {
-      "id": "CglCsV5hAl8",
-      "title": "Jurati, Cordial Queen | $92 Budget Build | MTG for the Working Class | #MTG #EDH",
-      "published": "2026-11-13T23:00:15+00:00",
-      "url": "https://www.youtube.com/watch?v=CglCsV5hAl8",
-      "image": "https://i.ytimg.com/vi/CglCsV5hAl8/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-17T13:38:24.560397+00:00"
+  "updated_at": "2026-11-17T19:27:06.492050+00:00"
 }
