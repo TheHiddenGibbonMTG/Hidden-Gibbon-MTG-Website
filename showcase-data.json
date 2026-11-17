@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "Dz0Pq4MEVO8",
+      "title": "Magic for the Working | Class Kona, Rescue Beastie | $77 | #MTG #EDH #BudgetCommander",
+      "published": "2026-11-16T23:00:18+00:00",
+      "url": "https://www.youtube.com/watch?v=Dz0Pq4MEVO8",
+      "image": "https://i.ytimg.com/vi/Dz0Pq4MEVO8/hqdefault.jpg"
+    },
+    {
+      "id": "o2YjCiMjleI",
+      "title": "Kona, Rescue Beastie | $77 Budget Build | MTG for the Working Class | #MTG #EDH",
+      "published": "2026-11-16T23:00:02+00:00",
+      "url": "https://www.youtube.com/watch?v=o2YjCiMjleI",
+      "image": "https://i.ytimg.com/vi/o2YjCiMjleI/hqdefault.jpg"
+    },
+    {
       "id": "-tipQpRofLo",
       "title": "Gibbon's Commander of the Day | Regna, the Redeemer and Krav | Viewer Request | #MTG #EDH #Commander",
       "published": "2026-11-16T18:00:36+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-13T23:00:06+00:00",
       "url": "https://www.youtube.com/watch?v=5XroS_VC_pw",
       "image": "https://i.ytimg.com/vi/5XroS_VC_pw/hqdefault.jpg"
-    },
-    {
-      "id": "_vrDFEO0hug",
-      "title": "Yuriko, Blade of the Mighty | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
-      "published": "2026-11-13T18:00:31+00:00",
-      "url": "https://www.youtube.com/watch?v=_vrDFEO0hug",
-      "image": "https://i.ytimg.com/vi/_vrDFEO0hug/hqdefault.jpg"
-    },
-    {
-      "id": "MtXVjag3I9M",
-      "title": "Yuriko, Blade of the Mighty | Voltron, Combat | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-13T18:00:24+00:00",
-      "url": "https://www.youtube.com/watch?v=MtXVjag3I9M",
-      "image": "https://i.ytimg.com/vi/MtXVjag3I9M/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-16T19:23:01.643463+00:00"
+  "updated_at": "2026-11-17T01:39:32.104679+00:00"
 }
