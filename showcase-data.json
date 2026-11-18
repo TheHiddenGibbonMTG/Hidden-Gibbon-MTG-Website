@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "Izo1PxBs0EE",
+      "title": "Gibbon's Card of the Day | Outflank | Episode 330 | #MTG",
+      "published": "2026-11-18T06:00:03+00:00",
+      "url": "https://www.youtube.com/watch?v=Izo1PxBs0EE",
+      "image": "https://i.ytimg.com/vi/Izo1PxBs0EE/hqdefault.jpg"
+    },
+    {
       "id": "ZaT2VUnY7FQ",
       "title": "Jamming some Arena Brawl | Hidden Gibbon MTG",
       "published": "2026-11-18T00:31:02+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-14T23:00:02+00:00",
       "url": "https://www.youtube.com/watch?v=3iWcRFiAozQ",
       "image": "https://i.ytimg.com/vi/3iWcRFiAozQ/hqdefault.jpg"
-    },
-    {
-      "id": "1OnKawqUl9E",
-      "title": "Ghalta, the Immovable | Aggro, Walls | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-14T18:00:31+00:00",
-      "url": "https://www.youtube.com/watch?v=1OnKawqUl9E",
-      "image": "https://i.ytimg.com/vi/1OnKawqUl9E/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-18T01:44:16.889319+00:00"
+  "updated_at": "2026-11-18T07:42:25.783563+00:00"
 }
