@@ -21,10 +21,6 @@
       "url": "historical-cards/3.png"
     },
     {
-      "name": "4",
-      "url": "historical-cards/4.png"
-    },
-    {
       "name": "5",
       "url": "historical-cards/5.jpg"
     },
@@ -43,6 +39,10 @@
     {
       "name": "9",
       "url": "historical-cards/9.jpg"
+    },
+    {
+      "name": "Admiral Yi Sun Sin",
+      "url": "historical-cards/Admiral%20Yi%20Sun-Sin.png"
     },
     {
       "name": "Albert",
