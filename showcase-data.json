@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "ZaT2VUnY7FQ",
+      "title": "Jamming some Arena Brawl | Hidden Gibbon MTG",
+      "published": "2026-11-18T00:31:02+00:00",
+      "url": "https://www.youtube.com/watch?v=ZaT2VUnY7FQ",
+      "image": "https://i.ytimg.com/vi/ZaT2VUnY7FQ/hqdefault.jpg"
+    },
+    {
       "id": "uegOhRiun5A",
       "title": "Fire Lord Azula | Combo, cEDH | MTG Commander Deck Tech | Viewer Request",
       "published": "2026-11-17T18:00:19+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-14T18:00:31+00:00",
       "url": "https://www.youtube.com/watch?v=1OnKawqUl9E",
       "image": "https://i.ytimg.com/vi/1OnKawqUl9E/hqdefault.jpg"
-    },
-    {
-      "id": "pIcV4qhmNl4",
-      "title": "Gibbon's Commander of the Day | Ghalta, the Immovable | Viewer Rquest | #MTG #EDH #Commander",
-      "published": "2026-11-14T18:00:25+00:00",
-      "url": "https://www.youtube.com/watch?v=pIcV4qhmNl4",
-      "image": "https://i.ytimg.com/vi/pIcV4qhmNl4/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-17T19:27:06.492050+00:00"
+  "updated_at": "2026-11-18T01:44:16.889319+00:00"
 }
