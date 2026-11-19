@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "P7OdWJZzOsU",
+      "title": "Gibbon's Card of the Day | Sigil of Sleep | Episode 331 | #MTG",
+      "published": "2026-11-19T06:00:30+00:00",
+      "url": "https://www.youtube.com/watch?v=P7OdWJZzOsU",
+      "image": "https://i.ytimg.com/vi/P7OdWJZzOsU/hqdefault.jpg"
+    },
+    {
       "id": "StogwmypnEY",
       "title": "Brutus, Knife in the Senate | Historical Commanders | MTG Commander Custom Deck Tech | Episode 20",
       "published": "2026-11-18T23:00:36+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-16T06:00:18+00:00",
       "url": "https://www.youtube.com/watch?v=U6FkWdWh6kg",
       "image": "https://i.ytimg.com/vi/U6FkWdWh6kg/hqdefault.jpg"
-    },
-    {
-      "id": "ZsOF35bF7ds",
-      "title": "Universes Beyond is Destroying Magic... Or is It?",
-      "published": "2026-11-15T23:00:23+00:00",
-      "url": "https://www.youtube.com/watch?v=ZsOF35bF7ds",
-      "image": "https://i.ytimg.com/vi/ZsOF35bF7ds/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-19T01:40:49.025672+00:00"
+  "updated_at": "2026-11-19T07:44:22.931871+00:00"
 }
