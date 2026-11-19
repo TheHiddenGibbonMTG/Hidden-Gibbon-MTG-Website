@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "1FLAlHs0XCU",
+      "title": "Baron Vladimir Harkinnen | Sacrifice, Control | MTG Commander Deck Tech | Episode 273",
+      "published": "2026-11-19T18:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=1FLAlHs0XCU",
+      "image": "https://i.ytimg.com/vi/1FLAlHs0XCU/hqdefault.jpg"
+    },
+    {
+      "id": "_QaJc-XBPQY",
+      "title": "Baron Vladimir Harkonnen | Gibbon's Commander of the Day | #MTG #EDH #Commander #Dune #SecretLair",
+      "published": "2026-11-19T18:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=_QaJc-XBPQY",
+      "image": "https://i.ytimg.com/vi/_QaJc-XBPQY/hqdefault.jpg"
+    },
+    {
       "id": "P7OdWJZzOsU",
       "title": "Gibbon's Card of the Day | Sigil of Sleep | Episode 331 | #MTG",
       "published": "2026-11-19T06:00:30+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-16T18:00:36+00:00",
       "url": "https://www.youtube.com/watch?v=-tipQpRofLo",
       "image": "https://i.ytimg.com/vi/-tipQpRofLo/hqdefault.jpg"
-    },
-    {
-      "id": "8NHuD3yNLXo",
-      "title": "Regna and Krav | Tokens, Life Gain, Reanimator | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-16T18:00:10+00:00",
-      "url": "https://www.youtube.com/watch?v=8NHuD3yNLXo",
-      "image": "https://i.ytimg.com/vi/8NHuD3yNLXo/hqdefault.jpg"
-    },
-    {
-      "id": "U6FkWdWh6kg",
-      "title": "Gibbon's Card of the Day | Leadership Vacuum | Episode 328 | #MTG",
-      "published": "2026-11-16T06:00:18+00:00",
-      "url": "https://www.youtube.com/watch?v=U6FkWdWh6kg",
-      "image": "https://i.ytimg.com/vi/U6FkWdWh6kg/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-19T13:41:42.159109+00:00"
+  "updated_at": "2026-11-19T19:25:40.579738+00:00"
 }
