@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "StogwmypnEY",
+      "title": "Brutus, Knife in the Senate | Historical Commanders | MTG Commander Custom Deck Tech | Episode 20",
+      "published": "2026-11-18T23:00:36+00:00",
+      "url": "https://www.youtube.com/watch?v=StogwmypnEY",
+      "image": "https://i.ytimg.com/vi/StogwmypnEY/hqdefault.jpg"
+    },
+    {
+      "id": "WqvjcrI3dcA",
+      "title": "Brutus, Knife in the Senate | Historical Commander | #MTG #CustomCommander #EDH #Commander",
+      "published": "2026-11-18T23:00:07+00:00",
+      "url": "https://www.youtube.com/watch?v=WqvjcrI3dcA",
+      "image": "https://i.ytimg.com/vi/WqvjcrI3dcA/hqdefault.jpg"
+    },
+    {
       "id": "mlzadhm617k",
       "title": "Wort, the Raidmother | Tokens, overrun | MTG Commander Deck Tech | Viewer Request",
       "published": "2026-11-18T18:00:25+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-15T23:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=ZsOF35bF7ds",
       "image": "https://i.ytimg.com/vi/ZsOF35bF7ds/hqdefault.jpg"
-    },
-    {
-      "id": "f9qAHVjrVn4",
-      "title": "Indominus Rex, Alpha | Commander of the Day | Viewer Request | #MTG #EDH #Commander",
-      "published": "2026-11-15T19:00:37+00:00",
-      "url": "https://www.youtube.com/watch?v=f9qAHVjrVn4",
-      "image": "https://i.ytimg.com/vi/f9qAHVjrVn4/hqdefault.jpg"
-    },
-    {
-      "id": "CciOi9FGrM8",
-      "title": "Indominus Rex, Alpha | Reanimator, Self-Discard | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-15T19:00:11+00:00",
-      "url": "https://www.youtube.com/watch?v=CciOi9FGrM8",
-      "image": "https://i.ytimg.com/vi/CciOi9FGrM8/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-18T19:21:57.810490+00:00"
+  "updated_at": "2026-11-19T01:40:49.025672+00:00"
 }
