@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "S3qIlr6Esv8",
+      "title": "Why your Commander Decks Fail",
+      "published": "2026-11-19T23:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=S3qIlr6Esv8",
+      "image": "https://i.ytimg.com/vi/S3qIlr6Esv8/hqdefault.jpg"
+    },
+    {
       "id": "1FLAlHs0XCU",
       "title": "Baron Vladimir Harkinnen | Sacrifice, Control | MTG Commander Deck Tech | Episode 273",
       "published": "2026-11-19T18:00:34+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-16T23:00:02+00:00",
       "url": "https://www.youtube.com/watch?v=o2YjCiMjleI",
       "image": "https://i.ytimg.com/vi/o2YjCiMjleI/hqdefault.jpg"
-    },
-    {
-      "id": "-tipQpRofLo",
-      "title": "Gibbon's Commander of the Day | Regna, the Redeemer and Krav | Viewer Request | #MTG #EDH #Commander",
-      "published": "2026-11-16T18:00:36+00:00",
-      "url": "https://www.youtube.com/watch?v=-tipQpRofLo",
-      "image": "https://i.ytimg.com/vi/-tipQpRofLo/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-19T19:25:40.579738+00:00"
+  "updated_at": "2026-11-20T01:34:26.916139+00:00"
 }
