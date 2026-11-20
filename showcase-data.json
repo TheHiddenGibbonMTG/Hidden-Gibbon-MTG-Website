@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "piDlQvhMSkY",
+      "title": "Mau'Dib, Prophet Foretold | Gibbon's Commander of the Day | #MTG #EDH #Commander #Dune #SecretLair",
+      "published": "2026-11-20T18:00:33+00:00",
+      "url": "https://www.youtube.com/watch?v=piDlQvhMSkY",
+      "image": "https://i.ytimg.com/vi/piDlQvhMSkY/hqdefault.jpg"
+    },
+    {
+      "id": "UjlebvKupYc",
+      "title": "Maud’Dib, Prophet Foretold | Landfall, Self-Mill | MTG Commander Deck Tech Episode 274",
+      "published": "2026-11-20T18:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=UjlebvKupYc",
+      "image": "https://i.ytimg.com/vi/UjlebvKupYc/hqdefault.jpg"
+    },
+    {
       "id": "iHbf46NQeuQ",
       "title": "Gibbon's Card of the Day | Humiliate | Episode 332 | #MTG",
       "published": "2026-11-20T06:00:36+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-17T18:00:18+00:00",
       "url": "https://www.youtube.com/watch?v=l_oAQhvbhtA",
       "image": "https://i.ytimg.com/vi/l_oAQhvbhtA/hqdefault.jpg"
-    },
-    {
-      "id": "DbclsFiFb_Q",
-      "title": "Gibbon's Card of the Day | Graceful Reprieve | Episode 329 | #MTG",
-      "published": "2026-11-17T06:00:07+00:00",
-      "url": "https://www.youtube.com/watch?v=DbclsFiFb_Q",
-      "image": "https://i.ytimg.com/vi/DbclsFiFb_Q/hqdefault.jpg"
-    },
-    {
-      "id": "Dz0Pq4MEVO8",
-      "title": "Magic for the Working | Class Kona, Rescue Beastie | $77 | #MTG #EDH #BudgetCommander",
-      "published": "2026-11-16T23:00:18+00:00",
-      "url": "https://www.youtube.com/watch?v=Dz0Pq4MEVO8",
-      "image": "https://i.ytimg.com/vi/Dz0Pq4MEVO8/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-20T13:38:28.252668+00:00"
+  "updated_at": "2026-11-20T19:27:42.588595+00:00"
 }
