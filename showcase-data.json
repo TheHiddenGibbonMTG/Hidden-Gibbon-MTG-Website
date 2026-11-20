@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "iHbf46NQeuQ",
+      "title": "Gibbon's Card of the Day | Humiliate | Episode 332 | #MTG",
+      "published": "2026-11-20T06:00:36+00:00",
+      "url": "https://www.youtube.com/watch?v=iHbf46NQeuQ",
+      "image": "https://i.ytimg.com/vi/iHbf46NQeuQ/hqdefault.jpg"
+    },
+    {
       "id": "S3qIlr6Esv8",
       "title": "Why your Commander Decks Fail",
       "published": "2026-11-19T23:00:05+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-16T23:00:18+00:00",
       "url": "https://www.youtube.com/watch?v=Dz0Pq4MEVO8",
       "image": "https://i.ytimg.com/vi/Dz0Pq4MEVO8/hqdefault.jpg"
-    },
-    {
-      "id": "o2YjCiMjleI",
-      "title": "Kona, Rescue Beastie | $77 Budget Build | MTG for the Working Class | #MTG #EDH",
-      "published": "2026-11-16T23:00:02+00:00",
-      "url": "https://www.youtube.com/watch?v=o2YjCiMjleI",
-      "image": "https://i.ytimg.com/vi/o2YjCiMjleI/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-20T01:34:26.916139+00:00"
+  "updated_at": "2026-11-20T07:43:14.558835+00:00"
 }
