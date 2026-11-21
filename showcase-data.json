@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "mTm6HosNU1k",
+      "title": "Gibbon's Card of the Day | Marble Titan | Episode 333 | #MTG",
+      "published": "2026-11-21T06:00:04+00:00",
+      "url": "https://www.youtube.com/watch?v=mTm6HosNU1k",
+      "image": "https://i.ytimg.com/vi/mTm6HosNU1k/hqdefault.jpg"
+    },
+    {
       "id": "iqkvd_IUtWs",
       "title": "Witherbloom, the Balancer | $86 Budget Build | MTG for the Working Class | #MTG #EDH",
       "published": "2026-11-20T23:00:11+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-18T13:52:41+00:00",
       "url": "https://www.youtube.com/watch?v=ZaT2VUnY7FQ",
       "image": "https://i.ytimg.com/vi/ZaT2VUnY7FQ/hqdefault.jpg"
-    },
-    {
-      "id": "Izo1PxBs0EE",
-      "title": "Gibbon's Card of the Day | Outflank | Episode 330 | #MTG",
-      "published": "2026-11-18T06:00:03+00:00",
-      "url": "https://www.youtube.com/watch?v=Izo1PxBs0EE",
-      "image": "https://i.ytimg.com/vi/Izo1PxBs0EE/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-21T01:39:55.419353+00:00"
+  "updated_at": "2026-11-21T07:37:19.024964+00:00"
 }
