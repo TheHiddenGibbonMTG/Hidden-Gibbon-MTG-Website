@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "iqkvd_IUtWs",
+      "title": "Witherbloom, the Balancer | $86 Budget Build | MTG for the Working Class | #MTG #EDH",
+      "published": "2026-11-20T23:00:11+00:00",
+      "url": "https://www.youtube.com/watch?v=iqkvd_IUtWs",
+      "image": "https://i.ytimg.com/vi/iqkvd_IUtWs/hqdefault.jpg"
+    },
+    {
+      "id": "o-tUvW1lhBU",
+      "title": "Magic for the Working Class | Witherbloom, the Balancer | $86 | #MTG #EDH #BudgetCommander",
+      "published": "2026-11-20T23:00:11+00:00",
+      "url": "https://www.youtube.com/watch?v=o-tUvW1lhBU",
+      "image": "https://i.ytimg.com/vi/o-tUvW1lhBU/hqdefault.jpg"
+    },
+    {
       "id": "piDlQvhMSkY",
       "title": "Mau'Dib, Prophet Foretold | Gibbon's Commander of the Day | #MTG #EDH #Commander #Dune #SecretLair",
       "published": "2026-11-20T18:00:33+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-18T06:00:03+00:00",
       "url": "https://www.youtube.com/watch?v=Izo1PxBs0EE",
       "image": "https://i.ytimg.com/vi/Izo1PxBs0EE/hqdefault.jpg"
-    },
-    {
-      "id": "uegOhRiun5A",
-      "title": "Fire Lord Azula | Combo, cEDH | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-17T18:00:19+00:00",
-      "url": "https://www.youtube.com/watch?v=uegOhRiun5A",
-      "image": "https://i.ytimg.com/vi/uegOhRiun5A/hqdefault.jpg"
-    },
-    {
-      "id": "l_oAQhvbhtA",
-      "title": "Fire Lord Azula | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander #cEDH",
-      "published": "2026-11-17T18:00:18+00:00",
-      "url": "https://www.youtube.com/watch?v=l_oAQhvbhtA",
-      "image": "https://i.ytimg.com/vi/l_oAQhvbhtA/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-20T19:27:42.588595+00:00"
+  "updated_at": "2026-11-21T01:39:55.419353+00:00"
 }
