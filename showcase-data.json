@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "Lxw6KvHR7PE",
+      "title": "Flopsie, Bumi’s Buddy | Big Creatures, Counters | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-21T18:00:23+00:00",
+      "url": "https://www.youtube.com/watch?v=Lxw6KvHR7PE",
+      "image": "https://i.ytimg.com/vi/Lxw6KvHR7PE/hqdefault.jpg"
+    },
+    {
+      "id": "W-88h3970WA",
+      "title": "Flopsie, Bumi's Buddy | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-21T18:00:17+00:00",
+      "url": "https://www.youtube.com/watch?v=W-88h3970WA",
+      "image": "https://i.ytimg.com/vi/W-88h3970WA/hqdefault.jpg"
+    },
+    {
       "id": "mTm6HosNU1k",
       "title": "Gibbon's Card of the Day | Marble Titan | Episode 333 | #MTG",
       "published": "2026-11-21T06:00:04+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-18T18:00:25+00:00",
       "url": "https://www.youtube.com/watch?v=mlzadhm617k",
       "image": "https://i.ytimg.com/vi/mlzadhm617k/hqdefault.jpg"
-    },
-    {
-      "id": "iySDPvszpGU",
-      "title": "Wort, the Raidmother | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
-      "published": "2026-11-18T18:00:05+00:00",
-      "url": "https://www.youtube.com/watch?v=iySDPvszpGU",
-      "image": "https://i.ytimg.com/vi/iySDPvszpGU/hqdefault.jpg"
-    },
-    {
-      "id": "ZaT2VUnY7FQ",
-      "title": "Jamming some Arena Brawl | Hidden Gibbon MTG",
-      "published": "2026-11-18T13:52:41+00:00",
-      "url": "https://www.youtube.com/watch?v=ZaT2VUnY7FQ",
-      "image": "https://i.ytimg.com/vi/ZaT2VUnY7FQ/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-21T13:24:34.351174+00:00"
+  "updated_at": "2026-11-21T19:13:43.776384+00:00"
 }
