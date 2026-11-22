@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "Eedw6L0NHZw",
+      "title": "Gibbon's Card of the Day | Death is Irrelevant | Episode 334 | #MTG",
+      "published": "2026-11-22T06:00:30+00:00",
+      "url": "https://www.youtube.com/watch?v=Eedw6L0NHZw",
+      "image": "https://i.ytimg.com/vi/Eedw6L0NHZw/hqdefault.jpg"
+    },
+    {
       "id": "Lxw6KvHR7PE",
       "title": "Flopsie, Bumi’s Buddy | Big Creatures, Counters | MTG Commander Deck Tech | Viewer Request",
       "published": "2026-11-21T18:00:23+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-18T23:00:07+00:00",
       "url": "https://www.youtube.com/watch?v=WqvjcrI3dcA",
       "image": "https://i.ytimg.com/vi/WqvjcrI3dcA/hqdefault.jpg"
-    },
-    {
-      "id": "mlzadhm617k",
-      "title": "Wort, the Raidmother | Tokens, overrun | MTG Commander Deck Tech | Viewer Request",
-      "published": "2026-11-18T18:00:25+00:00",
-      "url": "https://www.youtube.com/watch?v=mlzadhm617k",
-      "image": "https://i.ytimg.com/vi/mlzadhm617k/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-22T01:35:22.502315+00:00"
+  "updated_at": "2026-11-22T07:37:22.434212+00:00"
 }
