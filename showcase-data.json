@@ -1,6 +1,27 @@
 {
   "videos": [
     {
+      "id": "FJe8XD6nkI8",
+      "title": "Arena Brawl and Chatting",
+      "published": "2026-11-22T17:59:48+00:00",
+      "url": "https://www.youtube.com/watch?v=FJe8XD6nkI8",
+      "image": "https://i.ytimg.com/vi/FJe8XD6nkI8/hqdefault.jpg"
+    },
+    {
+      "id": "2rakjbxXigY",
+      "title": "Paul Atreides, Ducal Heir | Gibbon's Commander of the Day | #MTG #EDH #Commander #Dune #SecretLair",
+      "published": "2026-11-22T18:00:32+00:00",
+      "url": "https://www.youtube.com/watch?v=2rakjbxXigY",
+      "image": "https://i.ytimg.com/vi/2rakjbxXigY/hqdefault.jpg"
+    },
+    {
+      "id": "YFz8MIMt8FI",
+      "title": "Paul Atreides, Ducal Heir | Tokens, Counters | MTG Commander Deck Tech | Episode 275",
+      "published": "2026-11-22T18:00:26+00:00",
+      "url": "https://www.youtube.com/watch?v=YFz8MIMt8FI",
+      "image": "https://i.ytimg.com/vi/YFz8MIMt8FI/hqdefault.jpg"
+    },
+    {
       "id": "Eedw6L0NHZw",
       "title": "Gibbon's Card of the Day | Death is Irrelevant | Episode 334 | #MTG",
       "published": "2026-11-22T06:00:30+00:00",
@@ -83,29 +104,8 @@
       "published": "2026-11-19T18:00:34+00:00",
       "url": "https://www.youtube.com/watch?v=_QaJc-XBPQY",
       "image": "https://i.ytimg.com/vi/_QaJc-XBPQY/hqdefault.jpg"
-    },
-    {
-      "id": "P7OdWJZzOsU",
-      "title": "Gibbon's Card of the Day | Sigil of Sleep | Episode 331 | #MTG",
-      "published": "2026-11-19T06:00:30+00:00",
-      "url": "https://www.youtube.com/watch?v=P7OdWJZzOsU",
-      "image": "https://i.ytimg.com/vi/P7OdWJZzOsU/hqdefault.jpg"
-    },
-    {
-      "id": "StogwmypnEY",
-      "title": "Brutus, Knife in the Senate | Historical Commanders | MTG Commander Custom Deck Tech | Episode 20",
-      "published": "2026-11-18T23:00:36+00:00",
-      "url": "https://www.youtube.com/watch?v=StogwmypnEY",
-      "image": "https://i.ytimg.com/vi/StogwmypnEY/hqdefault.jpg"
-    },
-    {
-      "id": "WqvjcrI3dcA",
-      "title": "Brutus, Knife in the Senate | Historical Commander | #MTG #CustomCommander #EDH #Commander",
-      "published": "2026-11-18T23:00:07+00:00",
-      "url": "https://www.youtube.com/watch?v=WqvjcrI3dcA",
-      "image": "https://i.ytimg.com/vi/WqvjcrI3dcA/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-22T13:22:57.254202+00:00"
+  "updated_at": "2026-11-22T19:15:11.224105+00:00"
 }
