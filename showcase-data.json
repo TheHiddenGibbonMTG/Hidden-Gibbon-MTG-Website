@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "2K2nyBY8n7s",
+      "title": "The Ur Sphinx | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
+      "published": "2026-11-23T18:00:33+00:00",
+      "url": "https://www.youtube.com/watch?v=2K2nyBY8n7s",
+      "image": "https://i.ytimg.com/vi/2K2nyBY8n7s/hqdefault.jpg"
+    },
+    {
+      "id": "C5iM0Eac56k",
+      "title": "The Ur Sphinx | Kindred, Big Mana | MTG Commander Deck Tech | Viewer Request",
+      "published": "2026-11-23T18:00:32+00:00",
+      "url": "https://www.youtube.com/watch?v=C5iM0Eac56k",
+      "image": "https://i.ytimg.com/vi/C5iM0Eac56k/hqdefault.jpg"
+    },
+    {
       "id": "FJe8XD6nkI8",
       "title": "Arena Brawl and Chatting",
       "published": "2026-11-23T07:07:41+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-20T06:00:36+00:00",
       "url": "https://www.youtube.com/watch?v=iHbf46NQeuQ",
       "image": "https://i.ytimg.com/vi/iHbf46NQeuQ/hqdefault.jpg"
-    },
-    {
-      "id": "S3qIlr6Esv8",
-      "title": "Why your Commander Decks Fail",
-      "published": "2026-11-19T23:00:05+00:00",
-      "url": "https://www.youtube.com/watch?v=S3qIlr6Esv8",
-      "image": "https://i.ytimg.com/vi/S3qIlr6Esv8/hqdefault.jpg"
-    },
-    {
-      "id": "1FLAlHs0XCU",
-      "title": "Baron Vladimir Harkinnen | Sacrifice, Control | MTG Commander Deck Tech | Episode 273",
-      "published": "2026-11-19T18:00:34+00:00",
-      "url": "https://www.youtube.com/watch?v=1FLAlHs0XCU",
-      "image": "https://i.ytimg.com/vi/1FLAlHs0XCU/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-23T13:45:54.772733+00:00"
+  "updated_at": "2026-11-23T19:25:33.789506+00:00"
 }
