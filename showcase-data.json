@@ -1,6 +1,20 @@
 {
   "videos": [
     {
+      "id": "V7MVizENpPw",
+      "title": "Magic for the Working Class | Alesha, Who Smiles at Fate | $86 | #MTG #EDH #BudgetCommander",
+      "published": "2026-11-23T23:00:37+00:00",
+      "url": "https://www.youtube.com/watch?v=V7MVizENpPw",
+      "image": "https://i.ytimg.com/vi/V7MVizENpPw/hqdefault.jpg"
+    },
+    {
+      "id": "NyOvDTESzCc",
+      "title": "Alesha, Who Laughs at Fate | $79 Budget Build | MTG for the Working Class | #MTG #EDH",
+      "published": "2026-11-23T23:00:10+00:00",
+      "url": "https://www.youtube.com/watch?v=NyOvDTESzCc",
+      "image": "https://i.ytimg.com/vi/NyOvDTESzCc/hqdefault.jpg"
+    },
+    {
       "id": "2K2nyBY8n7s",
       "title": "The Ur Sphinx | Gibbon's Commander of the Day | Viewer Request | #MTG #EDH #Commander",
       "published": "2026-11-23T18:00:33+00:00",
@@ -90,22 +104,8 @@
       "published": "2026-11-20T18:00:33+00:00",
       "url": "https://www.youtube.com/watch?v=piDlQvhMSkY",
       "image": "https://i.ytimg.com/vi/piDlQvhMSkY/hqdefault.jpg"
-    },
-    {
-      "id": "UjlebvKupYc",
-      "title": "Maud’Dib, Prophet Foretold | Landfall, Self-Mill | MTG Commander Deck Tech Episode 274",
-      "published": "2026-11-20T18:00:06+00:00",
-      "url": "https://www.youtube.com/watch?v=UjlebvKupYc",
-      "image": "https://i.ytimg.com/vi/UjlebvKupYc/hqdefault.jpg"
-    },
-    {
-      "id": "iHbf46NQeuQ",
-      "title": "Gibbon's Card of the Day | Humiliate | Episode 332 | #MTG",
-      "published": "2026-11-20T06:00:36+00:00",
-      "url": "https://www.youtube.com/watch?v=iHbf46NQeuQ",
-      "image": "https://i.ytimg.com/vi/iHbf46NQeuQ/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-23T19:25:33.789506+00:00"
+  "updated_at": "2026-11-24T01:41:46.152838+00:00"
 }
