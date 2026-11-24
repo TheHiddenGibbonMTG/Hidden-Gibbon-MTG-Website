@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "N9U0jFTd-Gc",
+      "title": "Gibbon's Card of the Day | Pin to the Earth | Episode 336 | #MTG",
+      "published": "2026-11-24T06:00:28+00:00",
+      "url": "https://www.youtube.com/watch?v=N9U0jFTd-Gc",
+      "image": "https://i.ytimg.com/vi/N9U0jFTd-Gc/hqdefault.jpg"
+    },
+    {
       "id": "V7MVizENpPw",
       "title": "Magic for the Working Class | Alesha, Who Smiles at Fate | $86 | #MTG #EDH #BudgetCommander",
       "published": "2026-11-23T23:00:37+00:00",
@@ -97,15 +104,8 @@
       "published": "2026-11-20T23:00:11+00:00",
       "url": "https://www.youtube.com/watch?v=o-tUvW1lhBU",
       "image": "https://i.ytimg.com/vi/o-tUvW1lhBU/hqdefault.jpg"
-    },
-    {
-      "id": "piDlQvhMSkY",
-      "title": "Mau'Dib, Prophet Foretold | Gibbon's Commander of the Day | #MTG #EDH #Commander #Dune #SecretLair",
-      "published": "2026-11-20T18:00:33+00:00",
-      "url": "https://www.youtube.com/watch?v=piDlQvhMSkY",
-      "image": "https://i.ytimg.com/vi/piDlQvhMSkY/hqdefault.jpg"
     }
   ],
   "decks": [],
-  "updated_at": "2026-11-24T01:41:46.152838+00:00"
+  "updated_at": "2026-11-24T07:47:33.194975+00:00"
 }
